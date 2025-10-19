@@ -92,13 +92,12 @@ Automated tests are not included—adding a small test suite (Jest/React Testing
 Enjoy building! 🍕
 
 
-
-<img width="1355" height="636" alt="Image" src="https://github.com/user-attachments/assets/ac0e2c7d-a2a8-4393-a8c9-48e9972774a5" />
-<img width="1355" height="639" alt="Image" src="https://github.com/user-attachments/assets/5a3b57bd-1b7a-4909-a4e8-c8642a672a50" />
-<img width="1365" height="652" alt="Image" src="https://github.com/user-attachments/assets/6a607dbd-eb62-407c-960b-51dc77ed57c8" />
 <img width="1363" height="649" alt="Image" src="https://github.com/user-attachments/assets/90229f93-287d-47b8-9eff-54a8e433c34c" />
-<img width="1344" height="632" alt="Image" src="https://github.com/user-attachments/assets/bf0bbb02-e15b-4945-b3d4-c251286efe7d" />
-<img width="1341" height="636" alt="Image" src="https://github.com/user-attachments/assets/28f363b3-24d1-48da-89b4-1ff6d0db7c93" />
-<img width="1343" height="629" alt="Image" src="https://github.com/user-attachments/assets/2c1bd16a-6516-41f8-bc13-c346632a55c3" />
+<img width="1365" height="652" alt="Image" src="https://github.com/user-attachments/assets/6a607dbd-eb62-407c-960b-51dc77ed57c8" />
+<img width="1355" height="639" alt="Image" src="https://github.com/user-attachments/assets/5a3b57bd-1b7a-4909-a4e8-c8642a672a50" />
+<img width="1355" height="636" alt="Image" src="https://github.com/user-attachments/assets/ac0e2c7d-a2a8-4393-a8c9-48e9972774a5" />
 <img width="1344" height="633" alt="Image" src="https://github.com/user-attachments/assets/da68e8b7-7ca3-446e-9ca1-ec5469bfdb0a" />
+<img width="1343" height="629" alt="Image" src="https://github.com/user-attachments/assets/2c1bd16a-6516-41f8-bc13-c346632a55c3" />
 <img width="1351" height="631" alt="Image" src="https://github.com/user-attachments/assets/ad1ac74c-2491-4046-80cc-dad1d1ecfce8" />
+<img width="1341" height="636" alt="Image" src="https://github.com/user-attachments/assets/28f363b3-24d1-48da-89b4-1ff6d0db7c93" />
+<img width="1344" height="632" alt="Image" src="https://github.com/user-attachments/assets/bf0bbb02-e15b-4945-b3d4-c251286efe7d" />
