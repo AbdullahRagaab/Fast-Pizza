@@ -5,11 +5,11 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "npx vite build",
+    "build": "vite build",
     "preview": "vite preview"
   },
-    "engines": {
-    "node": "20.x"
+  "engines": {
+    "node": "18.x"
   },
   "dependencies": {
     "@reduxjs/toolkit": "^1.9.5",
